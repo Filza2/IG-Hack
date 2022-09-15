@@ -1,6 +1,6 @@
 # IG-Hack
 <p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Ighack" src=""></a>
+<a href="https://t.me/TweakPY"><img title="IG-Hack" src=""></a>
 </p>
 
 ### How to use?
