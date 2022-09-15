@@ -1,6 +1,6 @@
 # IG-Hack
 <p align="center">
-<a href="https://bit.ly/30yDbd5"><img title="Ighack" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
+<a href="https://bit.ly/30yDbd5"><img title="Ighack" src=""></a>
 </p>
 
 ### How to use?
