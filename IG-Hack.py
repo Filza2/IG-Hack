@@ -1,5 +1,5 @@
 try:import random,time;from platform import *;from requests import post;sysname=system()
-except Exception as JQ:exit(JQ)
+except Exception as JQ:print(f'[!] Download The Missing Module ! , {JQ}');exit()
 
 
 ID='2989849484984'#Telegram id
